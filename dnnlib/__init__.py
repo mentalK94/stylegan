@@ -11,7 +11,7 @@ from .submission.run_context import RunContext
 
 from .submission.submit import SubmitTarget
 from .submission.submit import PathType
-from .submission.submit import SubmitConfig
+from .submission.submit import SubmitConf
 from .submission.submit import get_path_from_template
 from .submission.submit import submit_run
 
